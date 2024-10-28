@@ -1,3 +1,5 @@
+// functions in js are objects
+
 // without parameter
 greet = () => console.log("Hello!");
 
